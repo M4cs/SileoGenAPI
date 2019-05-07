@@ -9,3 +9,6 @@ To start clone the repository and run `virtualenv .flaskapp`. From there enable 
 # Documentation
 
 All API Documentation resides at https://sileogen.com/docs. Currently there is only 1 endpoint so there isn't much to read.
+
+
+SileoGen and the SileoGen brand are registered trademarks of Max Bridgland Software. Use of the name without explicit permission is strictly forbidden and will be followed up with legal concequences. To learn more read https://sileogen.com/terms
