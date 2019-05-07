@@ -1,0 +1,84 @@
+{
+    "tabs": [
+        {
+            "views": [
+                {
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "",
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "useSpacing": true,
+                    "markdown": "",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "markdown": "This is an example long description...\r\n# You can even use Markdown in here!\r\n          ",
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}",
+                    "itemCornerRadius": 6,
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://example.com/assets/image.png\r\nhttps://example.com/assets/image1.png"
+                        }
+                    ]
+                },
+                {
+                    "useBoldText": true,
+                    "text": "",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "text": "05-07-2019",
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "datetime-now",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "",
+                    "title": "Price",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "text": "author",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        }
+    ],
+    "class": "DepictionTabView",
+    "headerImage": "",
+    "tintColor": "#0657bb",
+    "minVersion": "0.1"
+}
